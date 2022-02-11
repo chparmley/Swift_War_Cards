@@ -1,8 +1,8 @@
 # Swift_War_Cards
 A simple game for familiarization with iOS and Swift
 
-
-![Example Image Not Found :( ](https://github.com/chparmley/Swift_War_Cards/blob/main/Screen%20Shot%202022-02-10%20at%2010.46.13%20PM.png?raw=true)
+<img src="https://github.com/chparmley/Swift_War_Cards/blob/main/Screen%20Shot%202022-02-10%20at%2010.46.13%20PM.png?raw=true" width="350" title="hover text">
+![Example Image Not Found :( ]()
 
 
 Features Used:
