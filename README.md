@@ -8,7 +8,7 @@ Features Used:
     2. Button: Creation,Callbacks,Custom Image Labels (button images)
     3. Images: Rendering from local storage, usage of XCode Assets
     
-  - Stacking multiple pieces of content in a container. Similar to HTML <div></div> elements
+  - Stacking multiple pieces of content in a container. Similar to HTML div elements
     1. VStack(){} for columns of elements
     2. HStack(){} for rows of elements
     3. ZStack(){} for elements on top of eachother
