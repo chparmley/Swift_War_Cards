@@ -1,6 +1,10 @@
 # Swift_War_Cards
 A simple game for familiarization with iOS and Swift
 
+
+![alt text](http://url/to/img.png)
+
+
 Features Used:
   - private/public view properties with @State decorators
   - Views and redering content
